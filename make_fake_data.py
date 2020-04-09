@@ -93,4 +93,3 @@ if __name__ == '__main__':
         users.write_users(date)
         page_views.daily_views(date, n_views=random.randint(100, 1000))
         page_views.write_page_views(date)
-
